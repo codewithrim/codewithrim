@@ -1,18 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rimjhim&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%201st%20Year%20CSE%20AI%20%7C%20Frontend%20Dev%20Enthusiast%20%7C%20AI%20%26%20LLM%20Learner&descSize=18&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rimjhim&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%201st%20Year%20CSE%20AI%20%7C%20Frontend%20Dev%20Enthusiast%20%7C%20AI%20and%20LLM%20Learner&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Learning+Frontend+and+AI;Exploring+the+world+of+LLMs" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/rimjhim-b87b93384/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="codewithrimjhim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/codewithrim?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Explore-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos"/>
@@ -37,7 +34,7 @@
 - 🌱 Learning **HTML, CSS, JavaScript & Basics of AI/LLMs**
 - 🎓 **B.Tech 1st year student in CSE AI**
 - 💻 Mostly interested in **Frontend Development and Artificial Intelligence**
-- 📫 Reach me at **(add your email here)**
+- 📫 Reach me at **codewithrim@gmail.com**
 - ⚡ Fun fact: **Constantly exploring new boundaries in tech!**
 
 <br clear="both">
