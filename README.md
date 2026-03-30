@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithrim">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithrim&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithrim&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/codewithrim">
     <img width="49%" src="https://streak-stats.demolab.com?user=codewithrim&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithrim">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrim&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithrim&theme=radical&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages"/>
   </a>
 </p>
 
