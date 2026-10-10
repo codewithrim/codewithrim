@@ -32,7 +32,7 @@
 
 - 🔭 Currently focusing on **frontend web development & exploring LLMs**
 - 🌱 Learning **HTML, CSS, JavaScript & Basics of AI/LLMs**
-- 🎓 **B.Tech 1st year student in CSE AI**
+- 🎓 **B.Tech 2nd year student in CSE AI**
 - 💻 Mostly interested in **Frontend Development and Artificial Intelligence**
 - 📫 Reach me at **codewithrim@gmail.com**
 - ⚡ Fun fact: **Constantly exploring new boundaries in tech!**
