@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rimjhim&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%201st%20Year%20CSE%20AI%20%7C%20Frontend%20Dev%20Enthusiast%20%7C%20AI%20and%20LLM%20Learner&descSize=18&descAlignY=52" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rimjhim&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%202nd%20Year%20CSE%20AI%20%7C%20Frontend%20Dev%20Enthusiast%20%7C%20AI%20and%20LLM%20Learner&descSize=18&descAlignY=52" alt="header"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Learning+Frontend+and+AI;Exploring+the+world+of+LLMs" alt="Typing SVG" />
